@@ -23,6 +23,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 | All One Needs to Know about Metaverse: A Complete Survey on Technological Singularity, Virtual Ecosystem, and Research Agenda| arXiv preprint | [2110.05352](https://arxiv.org/pdf/2110.05352.pdf) | :no_entry_sign:|
 | Computer Vision in the Metaverse | Journal of Metaverse| [67581/1051377](https://dergipark.org.tr/tr/download/article-file/2167684#:~:text=Computer%20vision%2C%20in%20XR%20applications,vision%20and%20represented%20as%20avatars.) | :no_entry_sign:|
 | How to Promote User Purchase in Metaverse? A Systematic Literature Review on Consumer Behavior Research and Virtual Commerce Application Design | Applied Sciences (MDPI) | [112311087](https://doi.org/10.3390/app112311087) | :no_entry_sign:|
+| Fusing Blockchain and AI with Metaverse: A survey | arXiv preprint | [2201.03201](https://arxiv.org/pdf/2201.03201.pdf) | :no_entry_sign:|
 
 
 
