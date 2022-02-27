@@ -1,5 +1,12 @@
 # Cool-Metaverse-Paper :computer: :eyeglasses: :earth_americas: 
 
+<p align="right">
+<a><img src="https://visitor-badge.laobi.icu/badge?page_id=lorenzo-stacchio.Cool-Metaverse-Paper" alt="visitors"></a>
+</p>
+
+
+
+
 <p align="center">
 <img width="450" height="300" src="https://cdn.pixabay.com/photo/2021/11/11/16/54/metaverse-6786713_960_720.png" alt="Image credits to mohamed_hassan" title="Image credits to mohamed_hassan" >
 </p>
