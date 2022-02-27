@@ -5,7 +5,11 @@ Cool Metaverse Related Papers and Resources.
 
 Papers are organized based on topic and application field.
 
-Feel free to send a PR or issue.
+Please, feel free to send a PR or an issue to add new cool papers about metaverse or suggest modification of existing ones.
+
+* [Reviews](#reviews)  
+* [Applications](#applications)  
+* [Datasets](#datasets)  
 
 
 ## Reviews
