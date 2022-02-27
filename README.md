@@ -1,5 +1,10 @@
 # Cool-Metaverse-Paper :computer: :eyeglasses: :earth_americas: 
 
+<p align="center">
+<img width="450" height="300" src="https://cdn.pixabay.com/photo/2021/11/11/16/54/metaverse-6786713_960_720.png" alt="Image credits to mohamed_hassan">
+</p>
+
+
 
 Cool Metaverse Related Papers and Resources.
 
