@@ -35,6 +35,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 | Why and Who Will Adopt Extended Reality Technology? Literature Review, Synthesis, and Future Research Agenda | SSRN | [3300469](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3300469) | :no_entry_sign:|
 | A Systematic Literature Review on Extended Reality: Virtual, Augmented and Mixed Reality in Collaborative Working Life Setting.  | IJVR | [4620](https://ijvr.eu/article/view/4620) | :no_entry_sign:|
 | A study on metaverse hype for sustainable growth  | IJASC | [2288-2847](https://doi.org/10.7236/IJASC.2021.10.3.72) | :no_entry_sign:|
+| Digital twin paradigm: A systematic literature review  | Computers in Industry | [103469](https://doi.org/10.1016/j.compind.2021.103469) | :no_entry_sign:|
 | Computer Vision in the Metaverse | Journal of Metaverse| [67581/1051377](https://dergipark.org.tr/tr/download/article-file/2167684#:~:text=Computer%20vision%2C%20in%20XR%20applications,vision%20and%20represented%20as%20avatars.) | :no_entry_sign:|
 
 
