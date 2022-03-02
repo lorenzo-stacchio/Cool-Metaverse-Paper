@@ -50,6 +50,11 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 |Transform, Warp, and Dress: A New Transformation-guided Model for Virtual Try-on| ACM TOMM | [3491226](https://dl.acm.org/doi/10.1145/3491226)|:no_entry_sign:|
 |Revive Family Photo Albums through a Collaborative Environment Exploiting the HoloLens 2| IEEE ISMARW | [9585874](https://ieeexplore.ieee.org/abstract/document/9585874)|:no_entry_sign:|
 
+## Machine Learning useful models
+| Title  | Publication | Paper | Project/Code|
+| ------------- | ------------- | ------------- |-----------------------------------------------------------------------------------------------------------------| 
+| SEER: Better, fairer computer vision through self-supervised training on uncurated internet images | arXiv preprint | [2202.08360](https://arxiv.org/abs/2202.08360) [2103.01988](https://arxiv.org/abs/2103.01988) | [Project](https://ai.facebook.com/blog/seer-10b-better-fairer-computer-vision-through-self-supervised-learning-training-on-diverse-datasets)/[Code](https://github.com/facebookresearch/vissl/tree/main/projects/SEER/)|
+
 ## Datasets
 
 | Title  | Publication | Paper | Project/Code|
