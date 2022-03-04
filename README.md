@@ -46,6 +46,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 | ------------- | ------------- | ------------- |-----------------------------------------------------------------------------------------------------------------| 
 | SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video | arXiv preprint | [2201.12792](https://arxiv.org/pdf/2201.12792.pdf) | [Project](https://jby1993.github.io/SelfRecon/)|
 | Ditto: Building Digital Twins of Articulated Objects from Interaction | arXiv preprint | [2202.08227](https://arxiv.org/pdf/2202.08227.pdf) | [Project](https://ut-austin-rpl.github.io/Ditto/) / [Code](https://github.com/UT-Austin-RPL/Ditto) |
+| PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence | AIT Lab repo | [link](https://ait.ethz.ch/projects/2022/pina/downloads/main.pdf) |  [Project](https://zj-dong.github.io/pina/) / [Code](https://github.com/zj-dong/pina) |
 | Exploiting fashion x-commerce through the empowerment of voice in the fashion virtual reality arena | Virtual Reality | [s10055-021-00602-6](https://doi.org/10.1007/s10055-021-00602-6) | :no_entry_sign:|
 |Revive Family Photo Albums through a Collaborative Environment Exploiting the HoloLens 2| IEEE ISMARW | [9585874](https://ieeexplore.ieee.org/abstract/document/9585874)|:no_entry_sign:|
 
