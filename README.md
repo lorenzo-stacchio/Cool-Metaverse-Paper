@@ -30,11 +30,12 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 | All One Needs to Know about Metaverse: A Complete Survey on Technological Singularity, Virtual Ecosystem, and Research Agenda| arXiv preprint | [2110.05352](https://arxiv.org/pdf/2110.05352.pdf) | :no_entry_sign:|
 | A Survey on Metaverse: the State-of-the-art, Technologies, Applications, and Challenges| arXiv preprint | [2110.09673](https://arxiv.org/abs/2111.09673) | :no_entry_sign:|
 | How to Promote User Purchase in Metaverse? A Systematic Literature Review on Consumer Behavior Research and Virtual Commerce Application Design | Applied Sciences (MDPI) | [112311087](https://doi.org/10.3390/app112311087) | :no_entry_sign:|
+| Shopping in virtual reality: A literature review and future agenda | JBUSRED | [04.075](https://doi.org/10.1016/j.jbusres.2021.04.075) | :no_entry_sign:|
+| Augmented reality in retail: a systematic review of research foci and future research agenda | IJRDM | [0959-0552](http://dx.doi.org/10.1108/IJRDM-11-2020-0472) | :no_entry_sign:|
 | Fusing Blockchain and AI with Metaverse: A survey | arXiv preprint | [2201.03201](https://arxiv.org/pdf/2201.03201.pdf) | :no_entry_sign:|
 | Extended reality in spatial sciences: A review of research challenges and future directions | MDPI ISPRS | [2220-996497439](https://www.mdpi.com/2220-9964/9/7/439) | :no_entry_sign:|
 | Why and Who Will Adopt Extended Reality Technology? Literature Review, Synthesis, and Future Research Agenda | SSRN | [3300469](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3300469) | :no_entry_sign:|
 | Thoughts on the Future of WebXR and the Immersive Web | ISMARW | [8699303](https://ieeexplore.ieee.org/document/8699303) | :no_entry_sign:|
-| Augmented reality in retail: a systematic review of research foci and future research agenda | IJRDM | [0959-0552](http://dx.doi.org/10.1108/IJRDM-11-2020-0472) | :no_entry_sign:|
 | Mixed Reality (MR) for Generation Z in Cultural Heritage Tourism Towards Metaverse | ENTER | [97830309475142](https://doi.org/10.1007/978-3-030-94751-4_2) | :no_entry_sign:|
 | A Systematic Literature Review on Extended Reality: Virtual, Augmented and Mixed Reality in Collaborative Working Life Setting.  | IJVR | [4620](https://ijvr.eu/article/view/4620) | :no_entry_sign:|
 | A study on metaverse hype for sustainable growth  | IJASC | [2288-2847](https://doi.org/10.7236/IJASC.2021.10.3.72) | :no_entry_sign:|
