@@ -51,6 +51,8 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 | PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence | AIT Lab repo | [link](https://ait.ethz.ch/projects/2022/pina/downloads/main.pdf) |  [Project](https://zj-dong.github.io/pina/) / [Code](https://github.com/zj-dong/pina) |
 | Exploiting fashion x-commerce through the empowerment of voice in the fashion virtual reality arena | Virtual Reality | [s10055-021-00602-6](https://doi.org/10.1007/s10055-021-00602-6) | :no_entry_sign:|
 |Revive Family Photo Albums through a Collaborative Environment Exploiting the HoloLens 2| IEEE ISMARW | [9585874](https://ieeexplore.ieee.org/abstract/document/9585874)|:no_entry_sign:|
+|Solitary Jogging with A Virtual Runner using Smartglasses| IEEE VR 2022 | [to appear](https://ieeevr.org/2022/program/papers/)|:no_entry_sign:|
+
 
 ## Machine Learning useful models
 | Title  | Publication | Paper | Project/Code|
