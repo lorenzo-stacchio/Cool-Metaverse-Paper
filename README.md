@@ -45,7 +45,8 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 
 ## Applications
 | Title  | Publication | Project/Code|
-| ------------- | ------------- |-----------------------------------------------------------------------------------------------------------------| 
+| ------------- | ------------- |-----------------------------------------------------------------------------------------------------------------|
+| iLabel: Interactive Neural Scene Labelling | [arXiv preprint](https://arxiv.org/pdf/2111.14637.pdf) |  [Project](https://edgarsucar.github.io/ilabel/) |
 | SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video | [arXiv preprint](https://arxiv.org/pdf/2201.12792.pdf) | [Project](https://jby1993.github.io/SelfRecon/)|
 | Ditto: Building Digital Twins of Articulated Objects from Interaction | [arXiv preprint](https://arxiv.org/pdf/2202.08227.pdf) | [Project](https://ut-austin-rpl.github.io/Ditto/) / [Code](https://github.com/UT-Austin-RPL/Ditto) |
 | Urban Radiance Fields | [CVPR 2022](https://urban-radiance-fields.github.io/images/go_urf.pdf) | [Project](https://urban-radiance-fields.github.io/) |
