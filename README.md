@@ -64,6 +64,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 | SEER: Better, fairer computer vision through self-supervised training on uncurated internet images | [arXiv preprint](https://arxiv.org/abs/2202.08360) [2103.01988](https://arxiv.org/abs/2103.01988) | [Project](https://ai.facebook.com/blog/seer-10b-better-fairer-computer-vision-through-self-supervised-learning-training-on-diverse-datasets)/[Code](https://github.com/facebookresearch/vissl/tree/main/projects/SEER/)|
 |Transform, Warp, and Dress: A New Transformation-guided Model for Virtual Try-on| [ACM TOMM](https://dl.acm.org/doi/10.1145/3491226)|:no_entry_sign:|
 |Zero-Shot Text-Guided Object Generation with Dream Fields| [arXiv preprint](https://arxiv.org/abs/2112.01455)|[Project](https://ajayj.com/dreamfields)/[Code](https://github.com/google-research/google-research/tree/master/dreamfields)|
+|Neural Head Avatars from Monocular RGB Videos| [arXiv preprint](https://arxiv.org/pdf/2112.01554.pdf)|[Project](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)|
 
 
 ## Datasets
