@@ -32,6 +32,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 | How to Promote User Purchase in Metaverse? A Systematic Literature Review on Consumer Behavior Research and Virtual Commerce Application Design | [MDPI Applied Sciences](https://doi.org/10.3390/app112311087) | :no_entry_sign:|
 | Shopping in virtual reality: A literature review and future agenda | [JBUSRED](https://doi.org/10.1016/j.jbusres.2021.04.075) | :no_entry_sign:|
 | Augmented reality in retail: a systematic review of research foci and future research agenda | [IJRDM](http://dx.doi.org/10.1108/IJRDM-11-2020-0472) | :no_entry_sign:|
+| Immersive technology: A meta-analysis of augmented/virtual reality applications and their impact on tourism experience | [IJTM](https://www.sciencedirect.com/science/article/pii/S0261517722000474?casa_token=U7hY499w9soAAAAA:d3H24dyx3NNsxj_hJP55qWKE3jLTeW8j4xCiwPXpbn2sccYLhaGA3sUZsRUNqYRraUEqPCfV) | :no_entry_sign:|
 | Fusing Blockchain and AI with Metaverse: A survey | [arXiv preprint](https://arxiv.org/pdf/2201.03201.pdf) | :no_entry_sign:|
 | Extended reality in spatial sciences: A review of research challenges and future directions | [MDPI ISPRS](https://www.mdpi.com/2220-9964/9/7/439) | :no_entry_sign:|
 | Why and Who Will Adopt Extended Reality Technology? Literature Review, Synthesis, and Future Research Agenda | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3300469) | :no_entry_sign:|
