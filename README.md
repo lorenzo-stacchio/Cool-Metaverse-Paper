@@ -67,6 +67,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 |Zero-Shot Text-Guided Object Generation with Dream Fields| [arXiv preprint](https://arxiv.org/abs/2112.01455)|[Project](https://ajayj.com/dreamfields)/[Code](https://github.com/google-research/google-research/tree/master/dreamfields)|
 |Neural Head Avatars from Monocular RGB Videos| [arXiv preprint](https://arxiv.org/pdf/2112.01554.pdf)|[Project](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)|
 |Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos| [arXiv preprint](https://arxiv.org/pdf/2204.01696.pdf)|[Project](https://stevenlsw.github.io/hoi-forecast/)|
+|StyleGAN-Human: A Data-Centric Odyssey of Human Generation| :no_entry_sign: |[Project](github.com)/[Code](https://github.com/stylegan-human/StyleGAN-Human)|
 
 
 
