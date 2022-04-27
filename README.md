@@ -61,7 +61,8 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 
 ## Machine Learning useful models
 | Title  | Publication | Project/Code|
-| ------------- | ------------- |-----------------------------------------------------------------------------------------------------------------| 
+| ------------- | ------------- |-----------------------------------------------------------------------------------------------------------------|
+|Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis| [preprint](https://generalizable-neural-performer.github.io/static/gnr.pdf)|[Project](https://generalizable-neural-performer.github.io/)/[Code](https://github.com/generalizable-neural-performer/gnr)|
 |Learning Generative Models of Textured 3D Meshes from Real-World Images| [arXiv preprint](https://arxiv.org/pdf/2103.15627.pdf)|[Code](https://github.com/dariopavllo/textured-3d-gan)|
 | SEER: Better, fairer computer vision through self-supervised training on uncurated internet images | [arXiv preprint](https://arxiv.org/abs/2202.08360) [2103.01988](https://arxiv.org/abs/2103.01988) | [Project](https://ai.facebook.com/blog/seer-10b-better-fairer-computer-vision-through-self-supervised-learning-training-on-diverse-datasets)/[Code](https://github.com/facebookresearch/vissl/tree/main/projects/SEER/)|
 |Style-Based Global Appearance Flow for Virtual Try-On| [arXiv preprint](https://arxiv.org/pdf/2204.01696.pdf6)|[Code](https://github.com/SenHe/Flow-Style-VTON/)|
@@ -80,3 +81,4 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 | InfiniteForm: A synthetic, minimal bias dataset for fitness applications | [arXiv preprint](https://arxiv.org/abs/2110.01330.pdf) | [Project](https://toinfinity.ai/) / [Code](https://github.com/toinfinityai/InfiniteRep)|
 | StandardSim: A Synthetic Dataset For Retail Environments | [arXiv preprint](https://arxiv.org/pdf/2202.02418.pdf) | [Project](https://standard-ai.github.io/Standard-Sim/) / [Code](https://github.com/standard-ai/Standard-Sim)|
 | MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking? | [arXiv preprint](https://arxiv.org/pdf/2108.09518.pdf) | [Project](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=42)|
+| GeneBody Dataset | :no_entry_sign: | [Project](https://generalizable-neural-performer.github.io/genebody.html)|
