@@ -74,11 +74,10 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 
 
 ## Datasets
-
 | Title  | Publication | Project/Code|
 | ------------- | ------------- |-----------------------------------------------------------------------------------------------------------------| 
 | Thingi10K: A Dataset of 10,000 3D-Printing Models |  [arXiv preprint](https://arxiv.org/pdf/1605.04797.pdf) | [Project](https://ten-thousand-models.appspot.com/) |
 | InfiniteForm: A synthetic, minimal bias dataset for fitness applications | [arXiv preprint](https://arxiv.org/abs/2110.01330.pdf) | [Project](https://toinfinity.ai/) / [Code](https://github.com/toinfinityai/InfiniteRep)|
 | StandardSim: A Synthetic Dataset For Retail Environments | [arXiv preprint](https://arxiv.org/pdf/2202.02418.pdf) | [Project](https://standard-ai.github.io/Standard-Sim/) / [Code](https://github.com/standard-ai/Standard-Sim)|
 | MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking? | [arXiv preprint](https://arxiv.org/pdf/2108.09518.pdf) | [Project](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=42)|
-| GeneBody Dataset | :no_entry_sign: | [Project](https://generalizable-neural-performer.github.io/genebody.html)|
+| GeneBody Dataset | [preprint](https://generalizable-neural-performer.github.io/static/gnr.pdf) | [Project](https://generalizable-neural-performer.github.io/genebody.html)|
