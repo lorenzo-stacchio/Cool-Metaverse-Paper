@@ -82,3 +82,4 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 | MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking? | [arXiv preprint](https://arxiv.org/pdf/2108.09518.pdf) | [Project](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=42)|
 | GeneBody Dataset | [preprint](https://generalizable-neural-performer.github.io/static/gnr.pdf) | [Project](https://generalizable-neural-performer.github.io/genebody.html)|
 | BEHAVE: Dataset and Method for Tracking Human Object Interactions | [CVPR 2022 preprint](http://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar22behave/behave.pdf) | [Project](https://virtualhumans.mpi-inf.mpg.de/behave/)|
+| HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling | [arXiv preprint](https://arxiv.org/pdf/2204.13686.pdf) | [Project](https://caizhongang.github.io/projects/HuMMan/)|
