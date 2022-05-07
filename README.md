@@ -57,6 +57,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 | Exploiting fashion x-commerce through the empowerment of voice in the fashion virtual reality arena | [Virtual Reality](https://doi.org/10.1007/s10055-021-00602-6) | :no_entry_sign:|
 |Revive Family Photo Albums through a Collaborative Environment Exploiting the HoloLens 2| [IEEE ISMARW](https://ieeexplore.ieee.org/abstract/document/9585874)|:no_entry_sign:|
 |Solitary Jogging with A Virtual Runner using Smartglasses| [IEEE VR 2022](https://ieeevr.org/2022/program/papers/)|:no_entry_sign:|
+|From photo to 3D to mixed reality: A complete workflow for cultural heritage visualisation and experience| [DAACH](https://www.sciencedirect.com/science/article/pii/S2212054819300153?casa_token=Noo8KkORO-UAAAAA:PSrAWm5Ddm0G8Of41JH9NDPSrwV5RKAzPambW9ufqf9N8WmBoWkK1rCxW1sVdxZ5Gl-FVi-XNw)|:no_entry_sign:|
 
 
 ## Machine Learning useful models
