@@ -61,7 +61,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 |End-to-End Visual Editing with a Generatively Pre-Trained Artist| [preprint](https://www.robots.ox.ac.uk/~abrown/E2EVE/resources/E2EVE.pdf)|[Project](https://www.robots.ox.ac.uk/~abrown/E2EVE/)/[Code](https://github.com/Andrew-Brown1/E2EVE)|
 |Artemis: Articulated Neural Pets with Appearance and Motion Synthesis| [arXiv preprint](https://arxiv.org/pdf/2202.05628.pdf)|[Project](https://haiminluo.github.io/publication/artemis/)/[Code](https://github.com/HaiminLuo/Artemis)|
 
-## Machine Learning useful models
+## Deep Learning models
 | Title  | Publication | Project/Code|
 | ------------- | ------------- |-----------------------------------------------------------------------------------------------------------------|
 |Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis| [preprint](https://generalizable-neural-performer.github.io/static/gnr.pdf)|[Project](https://generalizable-neural-performer.github.io/)/[Code](https://github.com/generalizable-neural-performer/gnr)|
@@ -72,7 +72,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 |Neural Head Avatars from Monocular RGB Videos| [arXiv preprint](https://arxiv.org/pdf/2112.01554.pdf)|[Project](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)|
 |Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos| [arXiv preprint](https://arxiv.org/pdf/2204.01696.pdf)|[Project](https://stevenlsw.github.io/hoi-forecast/)|
 |StyleGAN-Human: A Data-Centric Odyssey of Human Generation| :no_entry_sign: |[Project](github.com)/[Code](https://github.com/stylegan-human/StyleGAN-Human)|
-
+|BlobGAN: Spatially Disentangled Scene Representations| [arXiv preprint](https://arxiv.org/abs/2205.02837) |[Project](https://dave.ml/blobgan/)/[Code](https://github.com/dave-epstein/blobgan)|
 
 
 ## Datasets
