@@ -30,6 +30,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 | All One Needs to Know about Metaverse: A Complete Survey on Technological Singularity, Virtual Ecosystem, and Research Agenda| [arXiv preprint](https://arxiv.org/pdf/2110.05352.pdf) | :no_entry_sign:|
 | A Survey on Metaverse: the State-of-the-art, Technologies, Applications, and Challenges| [arXiv preprint](https://arxiv.org/abs/2111.09673) | :no_entry_sign:|
 | How to Promote User Purchase in Metaverse? A Systematic Literature Review on Consumer Behavior Research and Virtual Commerce Application Design | [MDPI Applied Sciences](https://doi.org/10.3390/app112311087) | :no_entry_sign:|
+| What is XR? Towards a Framework for Augmented and Virtual Reality | [CHB](https://www.sciencedirect.com/science/article/pii/S074756322200111X?via%3Dihub) | :no_entry_sign:|
 | Shopping in virtual reality: A literature review and future agenda | [JBUSRED](https://doi.org/10.1016/j.jbusres.2021.04.075) | :no_entry_sign:|
 | VR Shopping: A Review of Literature | [RESGATE](https://www.researchgate.net/publication/342492592_VR_Shopping_A_Review_of_Literature) | :no_entry_sign:|
 | Augmented reality in retail: a systematic review of research foci and future research agenda | [IJRDM](http://dx.doi.org/10.1108/IJRDM-11-2020-0472) | :no_entry_sign:|
