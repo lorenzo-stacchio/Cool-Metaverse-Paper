@@ -33,6 +33,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 | Shopping in virtual reality: A literature review and future agenda | [JBUSRED](https://doi.org/10.1016/j.jbusres.2021.04.075) | :no_entry_sign:|
 | VR Shopping: A Review of Literature | [RESGATE](https://www.researchgate.net/publication/342492592_VR_Shopping_A_Review_of_Literature) | :no_entry_sign:|
 | Augmented reality in retail: a systematic review of research foci and future research agenda | [IJRDM](http://dx.doi.org/10.1108/IJRDM-11-2020-0472) | :no_entry_sign:|
+| Nostalgia beats the wow-effect: Inspiration, awe and meaningful associations in augmented reality marketing | [JRCS](https://www.sciencedirect.com/science/article/abs/pii/S0969698919306551?via%3Dihub) | :no_entry_sign:|
 | Immersive technology: A meta-analysis of augmented/virtual reality applications and their impact on tourism experience | [IJTM](https://www.sciencedirect.com/science/article/pii/S0261517722000474?casa_token=U7hY499w9soAAAAA:d3H24dyx3NNsxj_hJP55qWKE3jLTeW8j4xCiwPXpbn2sccYLhaGA3sUZsRUNqYRraUEqPCfV) | :no_entry_sign:|
 | Fusing Blockchain and AI with Metaverse: A survey | [arXiv preprint](https://arxiv.org/pdf/2201.03201.pdf) | :no_entry_sign:|
 | Extended reality in spatial sciences: A review of research challenges and future directions | [MDPI ISPRS](https://www.mdpi.com/2220-9964/9/7/439) | :no_entry_sign:|
