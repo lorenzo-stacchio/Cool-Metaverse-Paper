@@ -1,4 +1,4 @@
-# Cool-Metaverse-Paper :computer: :eyeglasses: :earth_americas: 
+# Cool Metaverse Papers :computer: :eyeglasses: :earth_americas: 
 
 <p align="right">
 <a><img src="https://visitor-badge.laobi.icu/badge?page_id=lorenzo-stacchio.Cool-Metaverse-Paper" alt="visitors"></a>
