@@ -74,6 +74,8 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 |Neural Head Avatars from Monocular RGB Videos| [arXiv preprint](https://arxiv.org/pdf/2112.01554.pdf)|[Project](https://philgras.github.io/neural_head_avatars/neural_head_avatars.html)|
 |Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos| [arXiv preprint](https://arxiv.org/pdf/2204.01696.pdf)|[Project](https://stevenlsw.github.io/hoi-forecast/)|
 |StyleGAN-Human: A Data-Centric Odyssey of Human Generation| :no_entry_sign: |[Project](github.com)/[Code](https://github.com/stylegan-human/StyleGAN-Human)|
+|StyleGAN-Human: A Data-Centric Odyssey of Human Generation| :no_entry_sign: |[Project](github.com)/[Code](https://github.com/stylegan-human/StyleGAN-Human)|
+|CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers|[arXiv preprint](https://github.com/THUDM/CogVideo/blob/main/paper/CogVideo-arxiv.pdf) |:no_entry_sign:/[Code](https://github.com/THUDM/CogVideo)|
 |BlobGAN: Spatially Disentangled Scene Representations| [arXiv preprint](https://arxiv.org/abs/2205.02837) |[Project](https://dave.ml/blobgan/)/[Code](https://github.com/dave-epstein/blobgan)|
 
 
