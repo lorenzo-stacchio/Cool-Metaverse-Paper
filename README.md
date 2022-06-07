@@ -77,7 +77,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 |StyleGAN-Human: A Data-Centric Odyssey of Human Generation| :no_entry_sign: |[Project](github.com)/[Code](https://github.com/stylegan-human/StyleGAN-Human)|
 |CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers|[arXiv preprint](https://github.com/THUDM/CogVideo/blob/main/paper/CogVideo-arxiv.pdf) |:no_entry_sign:/[Code](https://github.com/THUDM/CogVideo)|
 |BlobGAN: Spatially Disentangled Scene Representations| [arXiv preprint](https://arxiv.org/abs/2205.02837) |[Project](https://dave.ml/blobgan/)/[Code](https://github.com/dave-epstein/blobgan)|
-|Mobilevit: light-weight, general-purpose, and mobile-friendly vision transformer| [arXiv preprint]([https://arxiv.org/abs/2205.02837](https://arxiv.org/pdf/2110.02178.pdf)) |[Code]([https://github.com/dave-epstein/blobgan](https://github.com/apple/ml-cvnets))|
+|Mobilevit: light-weight, general-purpose, and mobile-friendly vision transformer| [arXiv preprint](https://arxiv.org/pdf/2110.02178.pdf) |[Code](https://github.com/apple/ml-cvnets)|
 
 
 
