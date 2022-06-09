@@ -21,7 +21,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 
 * [Reviews](#reviews)  
 * [Applications](#applications)  
-* [Deep learning models](#deeplearningmodels)  
+* [Deep learning models](#deep-learning-models)  
 * [Datasets](#datasets)  
 
 
