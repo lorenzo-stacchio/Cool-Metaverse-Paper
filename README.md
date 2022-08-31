@@ -67,6 +67,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 ## Deep Learning models
 | Title  | Publication | Project/Code|
 | ------------- | ------------- |-----------------------------------------------------------------------------------------------------------------|
+|Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis| [SIGGRAPH '22](https://dl.acm.org/doi/abs/10.1145/3532834.3536210)|[Project](https://sites.google.com/view/deepbillboards/)/[Code](https://github.com/naruya/plenoctree)|
 |Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis| [preprint](https://generalizable-neural-performer.github.io/static/gnr.pdf)|[Project](https://generalizable-neural-performer.github.io/)/[Code](https://github.com/generalizable-neural-performer/gnr)|
 |Learning Generative Models of Textured 3D Meshes from Real-World Images| [arXiv preprint](https://arxiv.org/pdf/2103.15627.pdf)|[Code](https://github.com/dariopavllo/textured-3d-gan)|
 | SEER: Better, fairer computer vision through self-supervised training on uncurated internet images | [arXiv preprint](https://arxiv.org/abs/2202.08360) [2103.01988](https://arxiv.org/abs/2103.01988) | [Project](https://ai.facebook.com/blog/seer-10b-better-fairer-computer-vision-through-self-supervised-learning-training-on-diverse-datasets)/[Code](https://github.com/facebookresearch/vissl/tree/main/projects/SEER/)|
