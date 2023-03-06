@@ -80,6 +80,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 |BlobGAN: Spatially Disentangled Scene Representations| [arXiv preprint](https://arxiv.org/abs/2205.02837) |[Project](https://dave.ml/blobgan/)/[Code](https://github.com/dave-epstein/blobgan)|
 |Mobilevit: light-weight, general-purpose, and mobile-friendly vision transformer| [arXiv preprint](https://arxiv.org/pdf/2110.02178.pdf) |[Code](https://github.com/apple/ml-cvnets)|
 |M3D-VTON: A Monocular-to-3D Virtual Try-On Network| [arXiv preprint](https://arxiv.org/pdf/2108.05126.pdf) |[Code](https://github.com/fyviezhao/M3D-VTON)|
+|Removing Objects From Neural Radiance Fields| [arXiv preprint](https://arxiv.org/pdf/2212.11966.pdf) |[Code](https://nianticlabs.github.io/nerf-object-removal/)|
 
 
 
