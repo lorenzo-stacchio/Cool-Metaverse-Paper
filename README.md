@@ -51,6 +51,7 @@ Please, feel free to send a PR or an issue to add new cool papers about metavers
 ## Applications
 | Title  | Publication | Project/Code|
 | ------------- | ------------- |-----------------------------------------------------------------------------------------------------------------|
+| AnnHoloTator: A Mixed Reality Collaborative Platform for Manufacturing Work Instruction Interaction | [IEEE VE 2023](https://ieeexplore.ieee.org/abstract/document/10108830) |  :no_entry_sign: |
 | iLabel: Interactive Neural Scene Labelling | [arXiv preprint](https://arxiv.org/pdf/2111.14637.pdf) |  [Project](https://edgarsucar.github.io/ilabel/) |
 | SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video | [arXiv preprint](https://arxiv.org/pdf/2201.12792.pdf) | [Project](https://jby1993.github.io/SelfRecon/)|
 | Enabling Continuous Object Recognition in Mobile Augmented Reality | [ACM IUI](https://dl.acm.org/doi/pdf/10.1145/3490100.3516459) |:no_entry_sign:|
